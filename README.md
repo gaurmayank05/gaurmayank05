@@ -80,7 +80,7 @@
 
 <p>&nbsp;<img align="right" style="width: 49%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank05&"
-        alt="gaurmayank05"/></p>
+        alt="gaurmayank05"/></p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurmayank05&show_icons=true&locale=en"
         alt="gaurmayank05" /></p>
