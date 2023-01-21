@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning *Python, C, JAVA*
 
-- 🤝 <!------------I’m looking for help with [ATM](N/A)------------>
+<!----------🤝------------I’m looking for help with [ATM](N/A)------------>
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurmayank05](https://github.com//gaurmayank05/)
 
