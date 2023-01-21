@@ -74,7 +74,7 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
             height="40" /> </a> -----></p>
 
-<p><img align="left" style="width: 45%;"
+<p><img align="left" style="width: 44.5%;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurmayank05&show_icons=true&locale=en&layout=compact"
         alt="gaurmayank05"/></p>
 
