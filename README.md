@@ -1,8 +1,6 @@
-### <center><h1>Hi 👋 I'm Mayank Gaur</h1></center>
-
 <!--
 **gaurmayank05/gaurmayank05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--->
 <h1 align="center">Hi 👋, I'm Mayank Gaur</h1>
 <h3 align="center">FullStack Developer | Python Programmer | Java Programmer | Web Developer <br> |</h3>
 
@@ -10,7 +8,7 @@
             src="https://img.shields.io/twitter/follow/gaurmayank05?logo=twitter&style=for-the-badge"
             alt="gaurmayank05" /></a> </p>
 
-- <!------------🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)------>
+<!------------🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)------>
 
 - 🌱 I’m currently learning *Python, C, JAVA*
 
