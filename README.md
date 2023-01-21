@@ -78,7 +78,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurmayank05&show_icons=true&locale=en&layout=compact"
         alt="gaurmayank05"/></p>
 
-<p>&nbsp;<img align="right" style="width: 52%;"
+<p>&nbsp;<img align="right" style="width: 51%;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank05&"
         alt="gaurmayank05"/></p><br>
 
