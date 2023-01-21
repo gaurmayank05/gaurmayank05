@@ -74,13 +74,13 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
             height="40" /> </a> -----></p>
 
-<p><img align="right" style="width: 30%;"
+<p><img align="left" style="width: 41%;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurmayank05&show_icons=true&locale=en&layout=compact"
         alt="gaurmayank05"/></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=gaurmayank05&show_icons=true&locale=en"
+<p>&nbsp;<img align="right" style="width: 49%;"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank05&"
         alt="gaurmayank05"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurmayank05&"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurmayank05&show_icons=true&locale=en"
         alt="gaurmayank05" /></p>
