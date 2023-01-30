@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurmayank05](https://github.com//gaurmayank05/)
 
-- 💬 Ask me about *C, C++, JAVA, Python, TkInter, MySql, Django, Html5, CSS, JS*
+- 💬 Ask me about *C, Python, TkInter, Html5, CSS*
 
 - 📫 How to reach me *gaurmayank05@gmail.com*
 
