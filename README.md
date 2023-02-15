@@ -10,7 +10,7 @@
 
 <!------------🔭 I’m currently working on [E_Commerce Application](https://github.com/gauravpandey0101/E_shop)------>
 
-- 🌱 I’m currently learning *Python, C<!----, JAVA*---->
+- 🌱 I’m currently learning *Python, C <!---- JAVA*---->
 
 <!----------🤝------------I’m looking for help with [ATM](N/A)------------>
 
